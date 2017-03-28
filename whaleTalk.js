@@ -15,4 +15,4 @@ for (var i = 0; i < input.length; i++) {
   }
 }
 
-console.log('La baleine vous r\351pond: ' + resultArray.join('').toUpperCase() + ' !');
+console.log('Votre phrase en baleine se dit: ' + resultArray.join('').toUpperCase() + ' !');
